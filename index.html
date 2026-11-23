@@ -74,7 +74,7 @@ footer .soc a{margin-right:14px}
 <body>
 <nav class="top"><div class="c">
   <a class="brand" href="/"><img src="/assets/mark.svg" alt="" width="34" height="34">Ask Canada</a>
-  <div class="links"><a href="#topics">Topics</a><a href="#videos">Videos</a><a href="#faq">FAQ</a><a href="#ask">Ask a question</a></div>
+  <div class="links"><a href="#topics">Topics</a><a href="/civic.html">Civic Hub</a><a href="#videos">Videos</a><a href="#faq">FAQ</a><a href="#ask">Ask a question</a></div>
 </div></nav>
 
 <header class="hero"><div class="c">
@@ -153,6 +153,14 @@ footer .soc a{margin-right:14px}
   </div>
 </div></section>
 
+<section id="civic"><div class="c">
+  <div class="eyebrow">Civic Hub</div>
+  <h2>Latest from the Government of Canada</h2>
+  <p class="sub">Official updates on immigration, benefits, taxes, health, travel and housing, checked every day.</p>
+  <div class="vids" id="civicLatest"><p class="sub">Loading…</p></div>
+  <div class="ctas"><a class="btn p" href="/civic.html">Open the Civic Hub →</a></div>
+</div></section>
+
 <section id="videos"><div class="c">
   <div class="eyebrow">Videos</div>
   <h2>Watch the explainers</h2>
@@ -188,6 +196,8 @@ footer .soc a{margin-right:14px}
   </div>
   <p class="small">Independent information site. Not affiliated with the Government of Canada. Not legal or immigration advice. · Built by <a href="https://planb438.github.io/cloudkanata-site/">CloudKanata</a></p>
 </div></footer>
-<script>document.getElementById('yr').textContent=new Date().getFullYear()</script>
+<script>document.getElementById('yr').textContent=new Date().getFullYear();
+fetch('/data/updates.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{const e=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+document.getElementById('civicLatest').innerHTML=d.items.slice(0,6).map(i=>`<a class="vid" href="${e(i.link)}" target="_blank" rel="noopener"><span class="tag">${e(i.topic)} · ${e(i.published)}</span><b>${e(i.title)}</b><span>${e(i.source)}</span></a>`).join('')}).catch(()=>{document.getElementById('civicLatest').innerHTML='<p class="sub"><a href="/civic.html">See the latest updates</a></p>'});</script>
 </body>
 </html>
