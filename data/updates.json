@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:19Z",
+ "updated": "2026-11-24T21:12Z",
  "source": "Government of Canada news (canada.ca)",
  "topics": [
   "Health",
@@ -12,6 +12,24 @@
  ],
  "items": [
   {
+   "title": "$5,000 Team Canada Strong Red Seal Completion Bonus payments to start landing in bank accounts of approved applicants in early December",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/11/5000-team-canada-strong-red-seal-completion-bonus-payments-to-start-landing-in-bank-accounts-of-approved-applicants-in-early-december.html",
+   "teaser": "Today, the Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario, announced that over 18,000 applications have been received and determination letters from Service Canada will be sent to applicants in the coming days, with first payments to be issued to eligible journeypersons starting the first week of December.",
+   "published": "2026-11-24",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder : Team Canada Strong",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/11/backgrounder--team-canada-strong.html",
+   "teaser": "Team Canada Strong is an $8 billion investment to recruit, train, and hire 80,000 to 100,000 new Red Seal skilled trades workers by 2030-2031. It includes a $2 billion federal investment to help support PT workforce development efforts to better align skills development with local labour market needs and grow apprenticeship opportunities across Canada.",
+   "published": "2026-11-24",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
    "title": "Minister Hajdu to make an announcement on the Team Canada Strong Red Seal Completion Bonus",
    "link": "https://www.canada.ca/en/employment-social-development/news/2026/11/minister-hajdu-to-make-an-announcement-on-the-team-canada-strong-red-seal-completion-bonus.html",
    "teaser": "The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario, will be in Ottawa to launch the Red Seal Completion Bonus and provide an update on Team Canada Strong.",
@@ -19,6 +37,15 @@
    "topic": "Jobs & benefits",
    "source": "ESDC / Service Canada",
    "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Government of Canada adds Samidoun alias Masar Badil to terrorist entity list",
+   "link": "https://www.canada.ca/en/public-safety-canada/news/2026/11/government-of-canada-adds-samidoun-alias-masar-badil-to-terrorist-entity-list.html",
+   "teaser": "Today, the Honourable Gary Anandasangaree, Minister of Public Safety, announced that the Government of Canada has added Masar Badil (also known as the Palestinian Alternative Revolutionary Path Movement) to the list of terrorist entities under the Criminal Code as an alias for Samidoun.",
+   "published": "2026-11-23",
+   "topic": "Safety",
+   "source": "Public Safety Canada",
+   "first_seen": "2026-11-24"
   },
   {
    "title": "Statement by the Minister of Housing and Infrastructure and Minister responsible for Pacific Economic Development Canada on National Housing Day",
@@ -1378,6 +1405,690 @@
    "topic": "Taxes & money",
    "source": "FCAC",
    "first_seen": "2026-11-23"
+  },
+  {
+   "title": "Federal government doubles its commitment to improving the home of Canadian art",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/federal-government-doubles-its-commitment-to-improving-the-home-of-canadian-art.html",
+   "teaser": "The McMichael Canadian Art Collection in Kleinburg is remaking the home of Canadian art. The project will transform and expand the McMichael facility, making it a sustainable premier cultural centre and a destination for the preservation and display of more than 8,000 works of art by Canadian and Indigenous artists. The renewed McMichael will also offer a more efficient and engaging platform for the gallery’s landmark exhibitions and educational programs, serving the local community – and the country as a whole – as never before.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Legislation passes to extend the federal fuel excise tax relief for Canadians",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/legislation-passes-to-extend-the-federal-fuel-excise-tax-relief-for-canadians.html",
+   "teaser": "Canadians are navigating a rapidly changing and increasingly fragmented world. In response, the government is focused on what we can control: easing cost-of-living pressures, strengthening the economy, and building a more self-reliant Canada.",
+   "published": "2026-10-29",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Samuel De Champlain Bridge: Special Illumination for the Canada-European Union Summit",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/samuel-de-champlain-bridge-special-illumination-for-the-canada-european-union-summit.html",
+   "teaser": "Tonight, the Samuel De Champlain Bridge will be lit up in yellow and blue from sunset to 8:00 p.m. for the Canada-European Union Summit, in Montreal.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Edmundston",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-edmundston.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Guillaume Deschênes-Thériault, Member of Parliament for Madawaska—Restigouche; the Honourable Gilles LePage, Minister of Environment and Climate Change and Minister responsible for the Regional Development Corporation; and His Worship Eric Marquis, Mayor of Edmundston.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada accelerates the transition to zero-emission transit",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-accelerates-the-transition-to-zero-emission-transit.html",
+   "teaser": "The Honourable Gregor Robertson, Minister of Housing and Infrastructure and Minister responsible for Pacific Economic Development Canada, launched a call for applications, under the Zero Emission Transit Fund, for one or more not-for-profit organizations and academic institutions to provide planning and advisory services to municipalities and transit agencies across Canada as they look to deploy zero emission transit. Up to $15 million is available through this launch to support these services. Applications are being accepted from October 29, 2026 to January 14, 2027.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The CBSA provides an update on its new Assessment and Revenue Management system",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/10/the-cbsa-provides-an-update-on-its-new-assessment-and-revenue-management-system.html",
+   "teaser": "The CBSA provides an update on its new Assessment and Revenue Management system",
+   "published": "2026-10-29",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Rothesay",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-rothesay.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with the Honourable Wayne Long, Secretary of State (Canada Revenue Agency and Financial Institutions) and Member of Parliament for Saint John—Kennebecasis, the Honourable Alyson Townsend, Minister responsible for Labour and Member of Legislative Assembly for Rothesay, and His Worship Matt Alexander, Mayor of the Town of Rothesay.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Joint Statement on the Establishment of the Defence, Security and Resilience Bank (DSRB)",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/joint-statement-on-the-establishment-of-the-defence-security-and-resilience-bank-dsrb.html",
+   "teaser": "We, the Governments of Albania, Belgium, Canada, Greece, Latvia, Luxembourg, Romania, Türkiye and Ukraine, reaffirming our shared intent as expressed in the Ankara Declaration of 7 July 2026 to establish the Defence, Security and Resilience Bank (DSRB), will convene in Luxembourg on 30 November 2026 to sign the DSRB’s founding Articles of Agreement that were negotiated in Montréal in April 2026.",
+   "published": "2026-10-29",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Stouffville",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-stouffville.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with the Honourable Adam van Koeverden, Secretary of State (Sport), the Honourable Helena Jaczek, Member of Parliament for Markham—Stouffville, and Tony Furiato, CEO of Mentana Group Inc.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada and Nova Scotia invest in new trails for the Mi’kmaway Debert Cultural Centre",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/government-of-canada-and-nova-scotia-invest-in-new-trails-for-the-mikmaway-debert-cultural-centre.html",
+   "teaser": "A series of three educational trails will be developed after an investment of more than $1 million from the federal and provincial governments.",
+   "published": "2026-10-29",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Minister Champagne in Montréal to strengthen Canada-EU ties, promote closer economic collaboration",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/minister-champagne-in-montreal-to-strengthen-canada-eu-ties-promote-closer-economic-collaboration.html",
+   "teaser": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will be in Montréal on October 29-30 to participate in the Canada–European Union (EU) Summit, among other related EU-Canada meetings.",
+   "published": "2026-10-28",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
+   "teaser": "The Government of Canada is committed to upholding the integrity of its immigration and citizenship systems and protecting applicants from fraud and exploitation. To help safeguard applicants from those who would take advantage of them, new penalties of up to $1.5 million are now in force for those who break the law when providing paid immigration or citizenship advice or representation.",
+   "published": "2026-10-28",
+   "topic": "Immigration & citizenship",
+   "source": "IRCC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Statement from the Chief Public Health Officer of Canada on the Report on the State of Public Health in Canada 2026",
+   "link": "https://www.canada.ca/en/public-health/news/2026/10/statement-from-the-chief-public-health-officer-of-canada-on-the-report-on-the-state-of-public-health-in-canada-2026.html",
+   "teaser": "Yesterday, as the Chief Public Health Officer of Canada, I released The State of Public Health in Canada 2026 annual report. The report examines seven population health trends that offer insights into the health of people in Canada.",
+   "published": "2026-10-28",
+   "topic": "Health",
+   "source": "Public Health Agency",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Four charged in cross-border tobacco smuggling operation",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/10/four-charged-in-cross-border-smuggling-operation.html",
+   "teaser": "A multi-year, joint CBSA & RCMP investigation in Saskatchewan into a transnational, cross-provincial rail smuggling operation results in 36 charges laid against 4 individuals.",
+   "published": "2026-10-28",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Debert",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-debert.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Alana Hirtle, Member of Parliament for Cumberland–Colchester; the Honourable Dave Ritcey, Nova Scotia Minister of Communities, Culture, Tourism and Heritage and Member of the Legislative Assembly for Truro–Bible Hill–Millbrook–Salmon River; and Tim Bernard, Executive Director of the Mi’kmawey Debert Cultural Centre.",
+   "published": "2026-10-28",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada Summer Jobs 2027: Application period for employers open now until December 3, 2026",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/canada-summer-jobs-2027-application-period-for-employers-open-now-until-december-3-2026.html",
+   "teaser": "Canada Summer Jobs 2027: Application period for employers open now until December 3, 2026",
+   "published": "2026-10-27",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder: Canada Summer Jobs 2027",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/backgrounder-canada-summer-jobs-2027.html",
+   "teaser": "Backgrounder: Canada Summer Jobs 2027",
+   "published": "2026-10-27",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Media Advisory: Infrastructure Announcement at Art Toronto",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/media-advisory-infrastructure-announcement-at-art-toronto.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Jennifer McKelvie, Parliamentary Secretary to the Minister of Housing and Infrastructure, the Honourable Zee Hamid, Ontario’s Minister of Tourism, Culture and Gaming, Sarah Milroy, Executive Director and Chief Curator of the McMichael Canadian Art Collection, and Emily-Jean Alexander, Director of Art Toronto, with a special message from Madame Diana Fox Carney.",
+   "published": "2026-10-27",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Statement by the Minister of Finance and National Revenue on the establishment of the Defence, Security and Resilience Bank",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/statement-by-the-minister-of-finance-and-national-revenue-on-the-establishment-of-the-defence-security-and-resilience-bank.html",
+   "teaser": "Today, I am pleased to announce that Canada and international partners will gather in Luxembourg on November 30, 2026, to sign the Articles of Agreement establishing the DSRB. With its headquarters in Canada and a European hub in Luxembourg, the DSRB will reflect the collaborative, international partnership at the heart of this initiative.",
+   "published": "2026-10-26",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The federal government is investing in the renovation and modernization of the Paul-Émile-Lépine Community Centre",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/the-federal-government-is-investing-in-the-renovation-and-modernization-of-the-paul-emile-lepine-community-centre.html",
+   "teaser": "The Paul-Émile-Lépine Community Centre will be renovated to provide residents of L’Île-Perrot with a modern gathering place tailored to the community’s needs for hosting community and social activities, thanks to an investment of more than $8.4 million from the federal government under the Green and Inclusive Community Buildings program (GICB).",
+   "published": "2026-10-26",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Joint statement from Canada and the United Kingdom",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/joint-statement-from-canada-and-the-united-kingdom.html",
+   "teaser": "The United Kingdom and Canada reiterate our commitment to strengthening defence financing and improving the efficiency of spending to transform our collective defence capabilities.",
+   "published": "2026-10-25",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario Making Homes More Affordable in Sudbury",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-sudbury.html",
+   "teaser": "Today, the Governments of Canada and Ontario announced that the City of Greater Sudbury is receiving up to $45.3 million through the Development Charge Reduction Program (DCRP) in recognition of its commitment to reduce development charges by 100 per cent for residential developments from March 30, 2026 to March 31, 2029. The funding will help build more homes and community infrastructure in Sudbury while advancing the province’s plan to protect Ontario by investing in projects that support economic growth and keep workers on the job.",
+   "published": "2026-10-23",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario Making Homes More Affordable in Essex County",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-essex-county.html",
+   "teaser": "Today, the Governments of Canada and Ontario announced that regional and local municipalities in the County of Essex will receive up to $105.8 million through the Development Charge Reduction Program (DCRP) in recognition of their commitment to reduce or eliminate development charges for all housing types from March 30, 2026, to December 31, 2030, depending on the municipality. The funding will help build more homes and community infrastructure while advancing the province’s plan to protect Ontario by investing in projects that support economic growth and keep workers on the job.",
+   "published": "2026-10-23",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada will be accepting applications for $5,000 Team Canada Strong Red Seal Completion Bonus as of November 16",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/government-of-canada-will-be-accepting-applications-for-5000-team-canada-strong-red-seal-completion-bonus-as-of-november-16.html",
+   "teaser": "Canada needs more skilled trades workers to build homes, strengthen critical infrastructure and support major economic and defence projects. To help meet this growing demand, the Government of Canada is making a generational investment in supports for the skilled trades.",
+   "published": "2026-10-23",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder : Team Canada Strong",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/backgrounder--team-canada-strong.html",
+   "teaser": "Team Canada Strong is an $8 billion investment to recruit, train, and hire 80,000 to 100,000 new Red Seal skilled trades workers by 2030-2031. It includes a $2 billion federal investment to help support PT workforce development efforts to better align skills development with local labour market needs and grow apprenticeship opportunities across Canada.",
+   "published": "2026-10-23",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada invests $7.3 million in new infrastructure at P.E.I.’s Wood Islands ferry terminal to support safe ferry service",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/government-of-canada-invests-73-million-in-new-infrastructure-at-peis-wood-islands-ferry-terminal-to-support-safe-ferry-service.html",
+   "teaser": "Reliable ferry service connects Prince Edward Island to markets and communities, strengthening the regional economy and supporting good-paying jobs. The Government of Canada is investing in infrastructure in Wood Islands that supports the continued safe and reliable operation of this essential transportation link while responding to environmental concerns raised by the local community.",
+   "published": "2026-10-23",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario Making Homes More Affordable in Windsor and Tecumseh",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-windsor-and-tecumseh.html",
+   "teaser": "Municipalities receiving up to $84.4 million for infrastructure in exchange for reducing development charges for three years.",
+   "published": "2026-10-23",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Essex County",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-essex-county.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Jennifer McKelvie, Parliamentary Secretary to the Minister of Housing and Infrastructure and Member of Parliament for Ajax, the Honourable Rob Flack, Minister of Municipal Affairs and Housing, Her Worship Hilda MacDonald, Warden of Essex County, Her Worship Crystal Meloche, Mayor of LaSalle, Her Worship Tracey Bailey, Mayor of Lakeshore, His Worship Dennis Roger, Mayor of Kingsville and Her Worship Sherry Bondy, Mayor of Essex.",
+   "published": "2026-10-23",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Banking fees can be hard to see and compare, FCAC review finds",
+   "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/banking-fees-can-be-hard-to-see-and-compare-fcac-review-finds.html",
+   "teaser": "A Review of Banking Fees in Canada, released today by the Financial Consumer Agency of Canada (FCAC), found that the way some banking fees are structured can make costs harder to understand and compare, with implications for affordability and competition.",
+   "published": "2026-10-23",
+   "topic": "Taxes & money",
+   "source": "FCAC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder: Review of Banking Fees in Canada",
+   "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/10/backgrounder-review-of-banking-fees-in-canada.html",
+   "teaser": "A Review of Banking Fees in Canada by the Financial Consumer Agency of Canada (FCAC) examined how banking fees are structured, disclosed and experienced by consumers.",
+   "published": "2026-10-23",
+   "topic": "Taxes & money",
+   "source": "FCAC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/10/cbsa-investigation-leads-to-charges-against-five-individuals-involved-in-an-immigration-fraud-scheme.html",
+   "teaser": "CBSA investigation leads to charges against five individuals involved in an immigration fraud scheme",
+   "published": "2026-10-22",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Sudbury",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-sudbury.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Viviane Lapointe, Member of Parliament for Sudbury and Bill Rosenburg, Member of Provincial Parliament for Algoma-Manitoulin.",
+   "published": "2026-10-22",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The Government of Canada to announce investment in new infrastructure at Northumberland Ferries’ Wood Islands terminal to support safe ferry service",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/the-government-of-canada-to-announce-investment-in-new-infrastructure-at-northumberland-ferries-wood-islands-terminal-to-support-safe-ferry-service.html",
+   "teaser": "Prince Edward Island — The Parliamentary Secretary to the Prime Minister, the Honourable Kody Blois, on behalf of the Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon, will announce an investment in infrastructure at the Northumberland Ferries Wood Islands terminal. He will be accompanied by Kent MacDonald, Member of Parliament for Cardigan, Prince Edward Island.",
+   "published": "2026-10-22",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Windsor",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-windsor.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Jennifer McKelvie, Parliamentary Secretary to the Minister of Housing and Infrastructure and Member of Parliament for Ajax and the Honourable Rob Flack, Minister of Municipal Affairs and Housing.",
+   "published": "2026-10-22",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in L’Île-Perrot",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-lile-perrot.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Peter Schiefke, Member of Parliament for Vaudreuil, and Marc Deslauriers, Mayor of L’Île-Perrot.",
+   "published": "2026-10-22",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Workforce Retention and Retraining Program launched to help employers keep their workforce while facing economic challenges",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/workforce-retention-and-retraining-program-launched-to-help-employers-keep-their-workforce-while-facing-economic-challenges.html",
+   "teaser": "Canada's businesses and workers continue to adapt to evolving global trade pressures, including the impacts of tariffs, while building the foundation for future growth.",
+   "published": "2026-10-22",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder on Workforce Retention and Retraining Program",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/backgrounder-on-workforce-retention-and-retraining-program.html",
+   "teaser": "On August 25th, 2026, the Government of Canada introduced a $3.5 billion investment in Rapid Response Supports for Workers and Employers, including the new Workforce Retention and Retraining Program (WRRP), to help employers and workers respond to economic challenges and prepare for emerging opportunities.",
+   "published": "2026-10-22",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The Government of Canada invests $254 million to support trade diversification and increase trade capacity in the Saint John Trade Corridor",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/the-government-of-canada-invests-254-million-to-support-trade-diversification-and-increase-trade-capacity-in-the-saint-john-trade-corridor.html",
+   "teaser": "Today, the Honourable Steven MacKinnon, Minister of Transport and Leader of the Government in the House of Commons, announced an investment of up to $254 million through the Trade Diversification Corridors Fund to support the Saint John Trade Corridor project, in partnership with the Government of New Brunswick’s Regional Development Corporation, the Saint John Port Authority, New Brunswick Southern Railway, and the New Brunswick Department of Transportation and Infrastructure.",
+   "published": "2026-10-21",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Biographies: New appointees to the National Housing Council",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/biographies-new-appointees.html",
+   "teaser": "Jennifer Keesmaat is President and Chief Executive Officer of Collecdev-Markee, developing new communities across the Greater Toronto Area as sustainable, liveable places that prioritize access to high quality, affordable housing. A Distinguished Visitor in Residence Emeritus at the University of Toronto, Ms. Keesmaat continues to share her vision for cities of the future, through her WEBBY Award-winning podcast, Invisible City. Ms. Keesmaat has been a member of the National Housing Council since 2024.",
+   "published": "2026-10-21",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The Government of Canada announces new appointments to the National Housing Council",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/the-government-of-canada-announces-new-appointments-to-the-national-housing-council.html",
+   "teaser": "Every Canadian deserves a safe and affordable place to call home. The Government of Canada is committed to working with partners and experts across the country to help address Canada’s housing challenges and ensure that a diversity of perspectives informs federal housing policy.",
+   "published": "2026-10-21",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada to release Budget 2026 on November‎ 5",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/government-of-canada-to-release-budget-2026-on-november-5-2026.html",
+   "teaser": "Today, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, announced that he will table Budget 2026 on November 5, 2026.",
+   "published": "2026-10-20",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Minister MacKinnon to make an important announcement regarding trade diversification",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/minister-mackinnon-to-make-an-important-announcement-regarding-trade-diversification.html",
+   "teaser": "The Minister of Transport and Leader of the Government in the House of Commons, the Honourable Steven MacKinnon will make an important announcement in Saint John.",
+   "published": "2026-10-20",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder: Health Canada announces new supports to improve the health of Black Canadians",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/backgrounder-health-canada-announces-new-supports-to-improve-the-health-of-black-canadians.html",
+   "teaser": "Today, the Honourable Marjorie Michel, Minister of Health, announced more than $6 million in funding under the Substance Use and Addictions Program and the Supporting Community Mental Health Crisis Response Initiative.",
+   "published": "2026-10-20",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Health Canada announces new supports to improve the health of Black Canadians",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/health-canada-announces-new-supports-to-improve-the-health-of-black-canadians.html",
+   "teaser": "Today, the Honourable Marjorie Michel, Minister of Health, announced more than $6 million in funding under the Substance Use and Addictions Program and the Supporting Community Mental Health Crisis Response Initiative.",
+   "published": "2026-10-20",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Samuel De Champlain Bridge: Special Illumination in honour of the CFB Wainwright tragedy",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/samuel-de-champlain-bridge-special-illumination-in-honour-of-the-cfb-wainwright-tragedy.html",
+   "teaser": "Tonight, the Samuel De Champlain Bridge will be lit up in purple from sunset to 8:30 p.m. to honour those who lost their lives, their families, and everyone affected by the tragedy at CFB Wainwright, in Alberta.",
+   "published": "2026-10-19",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Multi-jurisdictional Measles Outbreak is Over",
+   "link": "https://www.canada.ca/en/public-health/news/2026/10/multi-jurisdictional-measles-outbreak-is-over.html",
+   "teaser": "Multi-jurisdictional Measles Outbreak is Over",
+   "published": "2026-10-19",
+   "topic": "Health",
+   "source": "Public Health Agency",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Backgrounder: Canada and Newfoundland and Labrador partner on province-wide water and wastewater investments",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/backgrounder-canada-and-newfoundland-and-labrador-partner-on-province-wide-water-and-wastewater-investments.html",
+   "teaser": "The federal government is investing $10,093,907 through the Provincial and Territorial Agreement stream of the Canada Housing Infrastructure Fund (CHIF) to support 10 water and wastewater projects. The Government of Newfoundland and Labrador is investing $9,467,281 across the 10 projects. The municipalities listed in the table below are investing a total of $4,107,013 in these projects.",
+   "published": "2026-10-19",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Newfoundland and Labrador partner on province-wide water and wastewater investments",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-newfoundland-and-labrador-partner-on-province-wide-water-and-wastewater-investments.html",
+   "teaser": "The Government of Canada is using every tool at its disposal, leveraging technology, innovation and partnerships, to build homes at scale.",
+   "published": "2026-10-19",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada invests in protecting the Parc naturel de la Sagamité in Québec City",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/government-of-canada-invests-in-protecting-the-parc-naturel-de-la-sagamite-in-quebec-city.html",
+   "teaser": "In 2027, Québec City will undertake a project to protect the Parc naturel de la Sagamité, a 153-hectare area located north of the Notre-Dame-des-Laurentides neighbourhood, thanks to a $760,207 investment from the Government of Canada through the Natural Infrastructure Fund.",
+   "published": "2026-10-19",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "CBSA seizure of 127 kg of cocaine at Ambassador Bridge results in RCMP charges",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/10/cbsa-seizure-of-127-kg-of-cocaine-at-ambassador-bridge-results-in-rcmp-charges.html",
+   "teaser": "Canada Border Services Agency officers at the Ambassador Bridge port of entry seized 127 kg of suspected cocaine from a commercial truck arriving from the United States on September 11, 2026.",
+   "published": "2026-10-19",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada announces funding for new homes in Yorkton",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-announces-funding-for-new-homes-in-yorkton.html",
+   "teaser": "Today, the federal government, along with the Yorkton Parkland Housing Society and Yellow Quill First Nation announced over $5.6 million in combined funding through the Affordable Housing Fund and Rapid Housing Initiative to help build and repair 60 secure, rental homes in Yorkton and on Yellow Quill First Nation.",
+   "published": "2026-10-19",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Parliamentary Secretary Turnbull to attend APEC Finance Ministers’ Meeting in Hong Kong, advance Canada's diversification and multilateral agenda",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/10/parliamentary-secretary-turnbull-to-attend-apec-finance-ministers-meeting-in-hong-kong-advance-canadas-diversification-and-multilateral-agenda.html",
+   "teaser": "In response to persistent global volatility and trade uncertainty, Canada is engaging strategically with international partners to advance trade, promote economic certainty in a world that is anything but, and make progress on shared interests all while promoting domestic sectors and resources, and actioning the government’s strong economic plan at home.",
+   "published": "2026-10-16",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Federal, Provincial and Territorial (FPT) Health Ministers' Meeting",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/federal-provincial-and-territorial-fpt-health-ministers-meeting.html",
+   "teaser": "Today, Canada’s Federal, Provincial and Territorial (FPT) Ministers of Health and Ministers of Mental Health, Addictions, and Recovery met in Winnipeg to discuss key health priorities facing Canadians.",
+   "published": "2026-10-16",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Governments of Canada and Manitoba invest in strengthening the Manitoba First Nations Police Service and First Nations Safety Officer Program",
+   "link": "https://www.canada.ca/en/public-safety-canada/news/2026/10/governments-of-canada-and-manitoba-invest-in-strengthening-the-manitoba-first-nations-police-service-and-first-nations-safety-officer-program.html",
+   "teaser": "The Manitoba First Nations Police Service (MFNPS) will receive close to $121 million over four years to help build long-term capacity and advance First Nations led, culturally informed policing in the communities they serve. This funding supports a series of priority initiatives, including the establishment of a dedicated training academy, and the expansion of MFNPS services to the Fisher River Cree Nation and the Gambler First Nation.",
+   "published": "2026-10-16",
+   "topic": "Safety",
+   "source": "Public Safety Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Saskatchewan partner to build communities strong",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-saskatchewan-partner-to-build-communities-strong.html",
+   "teaser": "Building a strong Canada starts with investing in the infrastructure that people and communities rely on every day.",
+   "published": "2026-10-16",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Transport Canada evaluating a proposed update of the joint venture between Air Canada and United Airlines",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/transport-canada-evaluating-a-proposed-update-of-the-joint-venture-between-air-canada-and-united-airlines.html",
+   "teaser": "Air Canada and United Airlines have notified the Minister of Transport that they want to update their existing joint business arrangement, known commonly as a joint venture, for flights between Canada and the United States, under the Canada Transportation Act.",
+   "published": "2026-10-16",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Mount Pearl",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-mount-pearl.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Tom Osborne, Member of Parliament for Cape Spear–Mount Pearl–Paradise; the Honourable Barry Petten, Minister of Transportation and Infrastructure for Newfoundland and Labrador; and His Worship Dave Aker, Mayor of Mount Pearl.",
+   "published": "2026-10-16",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "UPDATE: Federal-Provincial-Territorial Health Ministers’ Meeting",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/update-federal-provincial-territorial-health-ministers-meeting.html",
+   "teaser": "UPDATE: An in-person meeting of Federal, Provincial and Territorial (FPT) Ministers of Health will take place October 16, in Winnipeg, Manitoba.",
+   "published": "2026-10-16",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada refocusing Express Entry on top talent that drives economic growth",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/canada-refocusing-express-entry-on-top-talent-that-drives-economic-growth.html",
+   "teaser": "October 16, 2026—Kitchener, Ontario—Building a stronger Canada means restoring confidence in a well-managed immigration system that meets our economic needs. This includes attracting and retaining skilled talent to complement the Canadian workforce and drive economic growth.",
+   "published": "2026-10-16",
+   "topic": "Immigration & citizenship",
+   "source": "IRCC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Changes to Express Entry for high-wage occupations",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/changes-to-express-entry-for-high-wage-occupations.html",
+   "teaser": "On November 3, 2026, changes to Express Entry willintroduce points for eligible Canadian work experience or qualifying job offers in high­wage occupations, and remove labour market impact assessment (LMIA) requirements for qualifying job offers used to establish program eligibility and obtain Comprehensive Ranking System (CRS) points",
+   "published": "2026-10-16",
+   "topic": "Immigration & citizenship",
+   "source": "IRCC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Federal government invests in rural transit in Belleville",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/federal-government-invests-in-rural-transit-in-belleville.html",
+   "teaser": "The City of Belleville will upgrade and modernize its rural transit fleet following an investment of $2.8 million from the federal government.",
+   "published": "2026-10-16",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario making homes more affordable in Guelph",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-guelph.html",
+   "teaser": "Today, the Governments of Canada and Ontario announced that the City of Guelph is receiving up to $48.3 million through the Development Charge Reduction Program (DCRP) in recognition of its commitment to reduce development charges by 30 per cent for all housing types from March 30, 2026 to March 31, 2029. This funding will help build more homes and community infrastructure in Guelph while advancing the province’s plan to protect Ontario by investing in projects that support economic growth and keep workers on the job.",
+   "published": "2026-10-16",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario making homes more affordable in Orillia",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-orillia.html",
+   "teaser": "City receiving up to $11.3 million for infrastructure in exchange for reducing development charges for three years.",
+   "published": "2026-10-16",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "The Government of Canada highlights workforce investments and measures to lower energy costs and reduce emissions",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/the-government-of-canada-highlights-workforce-investments-and-measures-to-lower-energy-costs-and-reduce-emissions.html",
+   "teaser": "The world is changing rapidly, and Canada is choosing to build. Major projects across the country will strengthen our economy, diversify trade and create good jobs across the country. Delivering these projects and supporting continued economic growth will require a skilled workforce ready to meet growing demand.",
+   "published": "2026-10-16",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Guelph",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-guelph.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Dominique O’Rourke, Member of Parliament for Guelph, the Honourable Rob Flack, Minister of Municipal Affairs and Housing, and His Worship Cam Guthrie, Mayor of Guelph.",
+   "published": "2026-10-15",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Minister Metlege Diab to make an announcement in Kitchener",
+   "link": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/minister-metlege-diab-to-make-an-announcement-in-kitchener.html",
+   "teaser": "Minister Metlege Diab to make an announcement in Kitchener",
+   "published": "2026-10-15",
+   "topic": "Immigration & citizenship",
+   "source": "IRCC",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Saskatoon",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-saskatoon.html",
+   "teaser": "Members of the media are invited to join an important announcement regarding community infrastructure across Saskatchewan with the Honourable Gregor Robertson, Minister of Housing and Infrastructure and Minister responsible for Pacific Economic Development Canada, the Honourable Jeremy Cockrill, Saskatchewan’s Minister of Health, the Honourable Eric Schmalz, Saskatchewan’s Minister of Government Relations, and Her Worship Cynthia Block, Mayor of Saskatoon.",
+   "published": "2026-10-15",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Infrastructure Announcement in Orillia",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/infrastructure-announcement-in-orillia.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with Jennifer McKelvie, Parliamentary Secretary to the Minister of Housing and Infrastructure and Member of Parliament for Ajax, the Honourable Graydon Smith, Associate Minister of Municipal Affairs and Housing and His Worship Don McIsaac, Mayor of Orillia.",
+   "published": "2026-10-15",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada provides an update the 2026 wildfire season – October update",
+   "link": "https://www.canada.ca/en/public-safety-canada/news/2026/10/government-of-canada-provides-an-update-the-2026-wildfire-season--october-update.html",
+   "teaser": "Wildfire seasons are now longer, more complex and more challenging than in the past, and 2026 was no exception. After a slower than average start to the season, wildfire activity, driven by periods of prolonged heat, drought and low humidity, became significant in several regions across the country. Northwestern Ontario and Southern British Columbia were particularly affected, experiencing sustained wildfire activity that threatened communities and critical infrastructure. Wildfire activity was also extremely intense in the Northwest Territories, which accounted for over one third of the total area burned in Canada in 2026.",
+   "published": "2026-10-15",
+   "topic": "Safety",
+   "source": "Public Safety Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Safe and effective health products for Canadians: New authorizations between July and September 2026",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/safe-and-effective-health-products-for-canadians-new-authorizations-between-july-and-september-2026.html",
+   "teaser": "Canadians expect timely access to safe and effective drugs and medical devices. Health Canada is providing a quarterly update on the steps the department is taking to make its regulatory processes more modern and efficient, while maintaining high standards for safety, efficacy, and quality.",
+   "published": "2026-10-15",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Drugs and medical devices authorized, July 1 to September 30, 2026",
+   "link": "https://www.canada.ca/en/health-canada/news/2026/10/drugs-and-medical-devices-authorized-july-1-to-september-30-2026.html",
+   "teaser": "From July 1 to September 30, 2026, Health Canada approved 16 new drug submissions (14 pharmaceuticals, 2 biologics) and 540 new medical devices, including 27 Class IV medical devices, which present the greatest potential risk. During this period, Health Canada also approved 30 generic drugs and 3 biosimilar drugs.",
+   "published": "2026-10-15",
+   "topic": "Health",
+   "source": "Health Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Canada and Ontario Making Homes More Affordable in St. Thomas",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/10/canada-and-ontario-making-homes-more-affordable-in-st-thomas.html",
+   "teaser": "Today, the Governments of Canada and Ontario announced that the City of St. Thomas is receiving up to $19.6 million through the Development Charge Reduction Program (DCRP) in recognition of its commitment to reduce development charges by 30 per cent for single-detached homes and multi-unit housing, and 50 per cent for remaining unit types from March 30, 2026 to March 31, 2029.",
+   "published": "2026-10-15",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Governments of Canada and Manitoba to announce funding for Indigenous police services and community safety in Manitoba",
+   "link": "https://www.canada.ca/en/public-safety-canada/news/2026/10/governments-of-canada-and-manitoba-to-announce-funding-for-indigenous-police-services-and-community-safety-in-manitoba.html",
+   "teaser": "Members of the media are invited to join the Honourable Gary Anandasangaree, Minister of Public Safety, along with the Honourable Matt Wiebe, Minister of Justice and Attorney General of Manitoba, for an announcement to strengthen community safety and policing in Indigenous communities in Manitoba.",
+   "published": "2026-10-15",
+   "topic": "Safety",
+   "source": "Public Safety Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada invests in Youth Gang Prevention in Manitoba and Alberta",
+   "link": "https://www.canada.ca/en/public-safety-canada/news/2026/10/government-of-canada-invests-in-youth-gang-prevention-in-manitoba-and-alberta.html",
+   "teaser": "Today, the Honourable Gary Anandasangaree, Minister of Public Safety, announced $1.6 million in federal funding to the Joy Smith Foundation through the Youth Gang Prevention Fund (YGPF) to support a project that will help prevent violence, gang involvement and criminal activity among at-risk and incarcerated youth aged 12 to 30 in Manitoba and Alberta.",
+   "published": "2026-10-15",
+   "topic": "Safety",
+   "source": "Public Safety Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Government of Canada invests in stronger air connectivity in Norman Wells and Fort Simpson",
+   "link": "https://www.canada.ca/en/transport-canada/news/2026/10/government-of-canada-invests-in-stronger-air-connectivity-in-norman-wells-and-fort-simpson.html",
+   "teaser": "Canadians, travellers, tourists and businesses count every day on local and regional airports. These vital hubs help move people and goods, strengthen supply chains, and link communities across our vast country from coast to coast to coast.",
+   "published": "2026-10-15",
+   "topic": "Travel & borders",
+   "source": "Transport Canada",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Minister Hajdu to highlight workforce investments and new measures to help Canadians lower energy costs and reduce emissions",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/minister-hajdu-to-highlight-workforce-investments-and-new-measures-to-help-canadians-lower-energy-costs-and-reduce-emissions.html",
+   "teaser": "The Honourable Patty Hajdu, Minister of Jobs and Families and Minister responsible for the Federal Economic Development Agency for Northern Ontario, will be in Thunder Bay to highlight workforce investments addressing critical skilled labour shortages as well as new measures to help people in Canada lower energy costs, reduce emissions and increase energy efficiency.",
+   "published": "2026-10-15",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-24"
   }
  ]
 }
