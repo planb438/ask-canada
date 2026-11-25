@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:12Z",
+ "updated": "2026-11-25T20:28Z",
  "source": "Government of Canada news (canada.ca)",
  "topics": [
   "Health",
@@ -11,6 +11,33 @@
   "Travel & borders"
  ],
  "items": [
+  {
+   "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/canada-moves-forward-with-final-safeguard-measure-on-canned-vegetables-imports-to-protect-canadian-producers.html",
+   "teaser": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
+   "published": "2026-11-25",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "Minister Champagne to hold media callback following his visit to the Gulf region",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-to-hold-media-callback-following-his-visit-to-the-gulf-region.html",
+   "teaser": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will hold a media callback. The Minister will highlight his visit to the Gulf region to advance trade diversification and investment partnerships.",
+   "published": "2026-11-25",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "title": "New initiatives to prevent and address child maltreatment in Canada",
+   "link": "https://www.canada.ca/en/public-health/news/2026/11/new-initiatives-to-prevent-and-address-child-maltreatment-in-canada.html",
+   "teaser": "Today, the Honourable Marjorie Michel, Minister of Health, announced more than $21 million over five years to support 16 projects that will prevent and address child maltreatment across Canada. Recipients include non-profit organizations and academic institutions.",
+   "published": "2026-11-25",
+   "topic": "Health",
+   "source": "Public Health Agency",
+   "first_seen": "2026-11-25"
+  },
   {
    "title": "$5,000 Team Canada Strong Red Seal Completion Bonus payments to start landing in bank accounts of approved applicants in early December",
    "link": "https://www.canada.ca/en/employment-social-development/news/2026/11/5000-team-canada-strong-red-seal-completion-bonus-payments-to-start-landing-in-bank-accounts-of-approved-applicants-in-early-december.html",
@@ -28,6 +55,15 @@
    "topic": "Jobs & benefits",
    "source": "ESDC / Service Canada",
    "first_seen": "2026-11-24"
+  },
+  {
+   "title": "Build Canada Homes marks completion of new homes in Kugluktuk, advancing housing delivery across Nunavut",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/build-canada-homes-marks-completion-of-new-homes-in-kugluktuk-advancing-housing-delivery-across-nunavut.html",
+   "teaser": "The federal government, government of Nunavut, and Inuit partners are working together to address Nunavut’s critical housing needs by accelerating the delivery of new homes across the territory.",
+   "published": "2026-11-24",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-25"
   },
   {
    "title": "Minister Hajdu to make an announcement on the Team Canada Strong Red Seal Completion Bonus",
