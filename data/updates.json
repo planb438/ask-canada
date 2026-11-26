@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:28Z",
+ "updated": "2026-11-26T20:11Z",
  "source": "Government of Canada news (canada.ca)",
  "topics": [
   "Health",
@@ -11,6 +11,78 @@
   "Travel & borders"
  ],
  "items": [
+  {
+   "title": "Infrastructure and Housing Announcement in Winnipeg",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/infrastructure-and-housing-announcement-in-winnipeg.html",
+   "teaser": "Members of the media are invited to an announcement with the Honourable Rebecca Chartrand, Minister of Northern and Arctic Affairs and Minister responsible for the Canadian Northern Economic Development Agency and Ben Carr, Member of Parliament for Winnipeg South Centre.",
+   "published": "2026-11-26",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-introduces-legislation-to-implement-budget-2026-masters-of-our-destiny.html",
+   "teaser": "Minister Champagne introduces legislation to implement Budget 2026: Masters of our destiny",
+   "published": "2026-11-26",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Federal government and Wellington North invest in community centre sustainability upgrade",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/federal-government-and-wellington-north-invest-in-community-centre-sustainability-upgrade.html",
+   "teaser": "The Arthur and Area Community Centre Sustainability Upgrade project will improve the facility’s energy efficiency, reduce greenhouse gas emissions and lower operating costs through an investment of $154,440 from the federal government.",
+   "published": "2026-11-26",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "CBSA seizes over $25 million in nicotine products across Southern Ontario",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-seizes-over-25-million-in-nicotine-products-across-southern-ontario.html",
+   "teaser": "Canada Border Services Agency (CBSA) officers at land ports of entry across Southern Ontario have seized over $25 million worth of illicit nicotine products from commercial shipments arriving from the United States over a four-day period in November.",
+   "published": "2026-11-26",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/11/charges-laid-by-the-cbsa-in-connection-with-the-illegal-importation-of-cigarette-manufacturing-equipment.html",
+   "teaser": "Charges laid by the CBSA in connection with the illegal importation of cigarette manufacturing equipment",
+   "published": "2026-11-26",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Infrastructure Announcement in Halifax",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/infrastructure-announcement-in-halifax.html",
+   "teaser": "Members of the media are invited to an infrastructure announcement with the Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship and Member of Parliament for Halifax West–Peggy’s Cove; Shannon Miedema, Member of Parliament for Halifax; and Jean St-Amand, Deputy Mayor of the Halifax Regional Municipality.",
+   "published": "2026-11-26",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "CRA – PSAC-UTE collective bargaining update",
+   "link": "https://www.canada.ca/en/revenue-agency/news/2026/11/cra--psac-ute-collective-bargaining-update.html",
+   "teaser": "The Canada Revenue Agency (CRA) is disappointed that Public Service Alliance of Canada - Union of Taxation Employees (<span class=\"nowrap\">PSAC-UTE</span>) chose to end mediation at a time when significant issues remained unresolved and further opportunities for progress were available.",
+   "published": "2026-11-26",
+   "topic": "Taxes & money",
+   "source": "CRA",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Minister Champagne advances financial, trade and investment partnerships with Qatar and the United Arab Emirates",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-advances-financial-trade-and-investment-partnerships-with-qatar-and-the-united-arab-emirates.html",
+   "teaser": "The government of Canada is moving strategically to attract new investment, create new opportunities for Canadian businesses, and diversify our economic partnerships. By building our strength at home and expanding partnerships abroad, we are creating greater prosperity for Canadian workers and businesses in a rapidly changing global economy.",
+   "published": "2026-11-26",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-26"
+  },
   {
    "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
    "link": "https://www.canada.ca/en/department-finance/news/2026/11/canada-moves-forward-with-final-safeguard-measure-on-canned-vegetables-imports-to-protect-canadian-producers.html",
