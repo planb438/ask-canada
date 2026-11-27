@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:11Z",
+ "updated": "2026-11-27T19:57Z",
  "source": "Government of Canada news (canada.ca)",
  "topics": [
   "Health",
@@ -11,6 +11,51 @@
   "Travel & borders"
  ],
  "items": [
+  {
+   "title": "Government highlights support for Tla’amin Nation’s acquisition of British Columbia forestry operation",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/government-highlights-support-for-tlaamin-nations-acquisition-of-british-columbia-forestry-operation.html",
+   "teaser": "Today, on behalf of the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, highlighted the Government of Canada’s $64 million loan guarantee supporting Tla’amin Nation’s acquisition of Tree Farm Licence 39, Block 1 (TFL 39) in Powell River (qathet region), British Columbia. The transaction, the fourth to close under the Indigenous Loan Guarantee Program (ILGP), allows Tla’amin Nation to acquire 100 per cent ownership of the assets that make up Western Forest Products Inc.’s Stillwater Forest Operation.",
+   "published": "2026-11-27",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Build Canada Homes selects builders for Naawi-Oodena Direct Build project, advancing housing delivery on public lands",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/build-canada-homes-selects-builders-for-naawi-oodena-direct-build-project-advancing-housing-delivery-on-public-lands.html",
+   "teaser": "Build Canada Homes (BCH) announced the selection of the Mamawi Anookiiyak Niigaan, a partnership formed between Treaty One and Bockstael Construction as the design-build partner for the Naawi-Oodena Direct Build project, marking a major milestone in BCH's efforts to increase housing supply and affordability across Canada.",
+   "published": "2026-11-27",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Federal government invests in active transportation in Halifax",
+   "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/federal-government-invests-in-active-transportation-in-halifax.html",
+   "teaser": "The Windsor Street Exchange will become more inclusive and accessible after an investment of $2.4 million from the federal government.",
+   "published": "2026-11-27",
+   "topic": "Housing",
+   "source": "Housing, Infrastructure and Communities",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Minister Champagne will visit Luxembourg to sign the Defence, Security and Resilience Bank agreement and strengthen economic ties",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/minister-champagne-will-visit-luxembourg-to-sign-the-defence-security-and-resilience-bank-agreement-and-strengthen-economic-ties.html",
+   "teaser": "The Honourable François-Philippe Champagne, Minister of Finance and National Revenue, will visit Luxembourg City, Luxembourg, on November 30 to sign the founding Articles of Agreement of the Defence, Security and Resilience Bank (DSRB), negotiated in Montréal in April 2026. He will be joined by representatives of the other signatory countries: Luxembourg, Albania, Belgium, Greece, Latvia, Romania, Türkiye and Ukraine.",
+   "published": "2026-11-27",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-27"
+  },
+  {
+   "title": "Opening statement to the Standing Committee on Industry and Technology (INDU) by Commissioner Shereen Benzvy Miller",
+   "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/11/opening-statement-to-the-standing-committee-on-industry-and-technology-indu-by-commissioner-shereen-benzvy-miller.html",
+   "teaser": "Opening statement delivered by FCAC's Commissioner Shereen Benzvy Miller , to the Standing Committee on Industry and Technology (INDU).",
+   "published": "2026-11-27",
+   "topic": "Taxes & money",
+   "source": "FCAC",
+   "first_seen": "2026-11-27"
+  },
   {
    "title": "Infrastructure and Housing Announcement in Winnipeg",
    "link": "https://www.canada.ca/en/housing-infrastructure-communities/news/2026/11/infrastructure-and-housing-announcement-in-winnipeg.html",
@@ -82,6 +127,15 @@
    "topic": "Taxes & money",
    "source": "Finance Canada",
    "first_seen": "2026-11-26"
+  },
+  {
+   "title": "Government supports Indigenous economic participation in major energy infrastructure",
+   "link": "https://www.canada.ca/en/department-finance/news/2026/11/government-supports-indigenous-economic-participation-in-major-energy-infrastructure.html",
+   "teaser": "Today, on behalf of the Honourable François-Philippe Champagne, Minister of Finance and National Revenue, the Honourable Tim Hodgson, Minister of Energy and Natural Resources, and the Honourable Rebecca Alty, Minister of Crown-Indigenous Relations, welcomed the fifth transaction to close under the Indigenous Loan Guarantee Program.",
+   "published": "2026-11-26",
+   "topic": "Taxes & money",
+   "source": "Finance Canada",
+   "first_seen": "2026-11-27"
   },
   {
    "title": "Canada moves forward with final safeguard measure on canned vegetables imports to protect Canadian producers",
