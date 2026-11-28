@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:57Z",
+ "updated": "2026-11-28T18:57Z",
  "source": "Government of Canada news (canada.ca)",
  "topics": [
   "Health",
@@ -11,6 +11,15 @@
   "Travel & borders"
  ],
  "items": [
+  {
+   "title": "Secretary of State McLean and Secretary of State Sahota announcing funding to help protect Ontario seniors from elder abuse",
+   "link": "https://www.canada.ca/en/employment-social-development/news/2026/11/secretary-of-state-mclean-and-secretary-of-state-sahota-announcing-funding-to-help-protect-ontario-seniors-from-elder-abuse.html",
+   "teaser": "Secretary of State McLean and Secretary of State Sahota announcing funding to help protect Ontario seniors from elder abuse",
+   "published": "2026-11-28",
+   "topic": "Jobs & benefits",
+   "source": "ESDC / Service Canada",
+   "first_seen": "2026-11-28"
+  },
   {
    "title": "Government highlights support for Tla’amin Nation’s acquisition of British Columbia forestry operation",
    "link": "https://www.canada.ca/en/department-finance/news/2026/11/government-highlights-support-for-tlaamin-nations-acquisition-of-british-columbia-forestry-operation.html",
@@ -55,6 +64,15 @@
    "topic": "Taxes & money",
    "source": "FCAC",
    "first_seen": "2026-11-27"
+  },
+  {
+   "title": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+   "link": "https://www.canada.ca/en/border-services-agency/news/2026/11/cbsa-reminds-travellers-of-upcoming-closure-of-the-remote-area-border-crossing-program-and-expansion-of-telephone-reporting.html",
+   "teaser": "CBSA reminds travellers of upcoming closure of the Remote Area Border Crossing Program and expansion of telephone reporting",
+   "published": "2026-11-27",
+   "topic": "Travel & borders",
+   "source": "CBSA",
+   "first_seen": "2026-11-28"
   },
   {
    "title": "Infrastructure and Housing Announcement in Winnipeg",
